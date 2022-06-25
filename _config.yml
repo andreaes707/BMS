@@ -1,3 +1,5 @@
+theme: jekyll-theme-time-machine
+
 defaults:
     -
       scope:
@@ -13,4 +15,4 @@ defaults:
         layout: "posts"
         author: "ALE"
         
-theme: jekyll-theme-time-machine
+
