@@ -1,5 +1,6 @@
 theme: jekyll-theme-time-machine
----
+
+...
 defaults:
   -
     scope:
@@ -7,4 +8,4 @@ defaults:
       type: "pages"
      values:
       layout: "default"
----
+...
