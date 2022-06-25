@@ -3,7 +3,6 @@ defaults:
       scope:
         path: ""
         type: "pages"
-        theme: jekyll-theme-timemachine
        values:
         layout: "default"
     -
@@ -13,5 +12,4 @@ defaults:
        values:
         layout: "posts"
         author: "ALE"
-
 theme: jekyll-theme-time-machine
