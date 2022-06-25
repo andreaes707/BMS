@@ -1,8 +1,8 @@
 # Welcome to My Master Catastrophe
 
 ### Recent Tasks
- - [ ] Consider Starting a Business
- - [ ] Start webpage building
+ - [x] Consider Starting a Business
+ - [x] Start webpage building
  - [ ] Add Newsletter
  - [ ] Add articles
 
