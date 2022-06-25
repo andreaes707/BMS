@@ -13,3 +13,5 @@ defaults:
        values:
         layout: "posts"
         author: "ALE"
+
+theme: jekyll-theme-time-machine
